@@ -1,4 +1,4 @@
-# Gesture Recognition System README
+# Gesture Recognition System 
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -27,7 +27,7 @@ Hand gestures are interpreted as commands to perform actions. Open and closed fi
 
 ## Command and Trigger
 The system detects hand gestures in real-time and triggers corresponding tasks based on predefined command mappings. A command queue ensures uniqueness and prevents redundancy in task execution. A trigger mechanism is implemented to execute tasks when specific criteria are met.
-# Virtual Keyboard README
+# Virtual Keyboard 
 
 ## Virtual keyboard Introduction
 A virtual keyboard enables users to input text or commands using gestures or movements, eliminating the need for a physical keyboard. This technology relies on computer vision techniques, such as image or video processing, to track and analyze user movements. In our virtual keyboard implementation, we capture input data from the user's hand gestures and interpret them to identify the intended characters or commands.
